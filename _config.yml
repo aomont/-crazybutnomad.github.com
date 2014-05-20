@@ -8,6 +8,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
+
+# So that we use a better Markdown engin than Maruku...
+markdown: kramdown
+
+
 title : Arthur Omont's Blog
 tagline: A blog about many things
 author :
