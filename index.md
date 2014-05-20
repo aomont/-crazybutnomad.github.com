@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Arthur Omont's blog...
+tagline: about a good many things!
 ---
 {% include JB/setup %}
 
